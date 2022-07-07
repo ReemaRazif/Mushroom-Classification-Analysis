@@ -20,4 +20,11 @@ In recent years, the popularity of mushrooms as a superfood and the understandin
 
 
 # Conclusion
+* Odor: If the Mushroom has an odor, especially if the odor is not pleasant, it is likely to be poisonous.
+* Gill Size: If the gills are narrow, it is likely to be poisonous.
+* Spore Print Color: White, red, ‘chocolate’ are likely to be poisonous.
+* Bruises: If the mushroom does not have bruises, it is likely to be poisonous.
+* Stalk Surface Above Ring: If it appears silky, it is likely to be poisonous.
+
+
 Since all the variables are categorical and data consists of many possible combinations, accuracy of all models are around 100%. But Decsion Tree and Random Forest gives the best results.
